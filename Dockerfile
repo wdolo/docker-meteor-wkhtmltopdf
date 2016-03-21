@@ -1,4 +1,3 @@
-
 FROM meteorhacks/meteord:base
 MAINTAINER Will Dolo <dolatow1@gmail.com>
 
